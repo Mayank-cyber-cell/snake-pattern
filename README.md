@@ -31,10 +31,6 @@ For a 3x4 matrix, the output will be:
 
 ### Run the script
 
-```bash
-python snake.py
-```
-
 You will be prompted to enter:
 - Number of rows
 - Number of columns
@@ -43,12 +39,6 @@ You will be prompted to enter:
 
 It will print a snake-pattern matrix in the console.
 
-## 📁 File Structure
-
-```
-snake-pattern/
-├── snake.py       # Main Python file with snake pattern logic
-```
 
 ## 🤔 Use Cases
 
